@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="Trivia" uuid="2320236a-a729-4b94-9ee5-1640a215f9e2">
+    <data-source source="LOCAL" name="Trivia" uuid="e315eb61-bd4b-4b88-b705-1b1e86393c0e">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
-      <auto-commit>false</auto-commit>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/Trivia</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
